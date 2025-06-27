@@ -1,0 +1,8 @@
+pandas
+scikit-learn
+Flask
+# Uncomment below if you want to use transformers (DistilBERT)
+# transformers
+torch
+nltk
+joblib 
