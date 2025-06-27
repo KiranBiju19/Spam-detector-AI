@@ -42,4 +42,4 @@ Then open your browser at [http://127.0.0.1:5000](http://127.0.0.1:5000)
 - Suspicious messages are logged in `suspicious_log.txt`.
 
 ## License
-MIT
+This project is licensed under the MIT License.
