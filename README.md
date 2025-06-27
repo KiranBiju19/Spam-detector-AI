@@ -43,3 +43,6 @@ Then open your browser at [http://127.0.0.1:5000](http://127.0.0.1:5000)
 
 ## License
 This project is licensed under the MIT License.
+
+**Dataset Attribution**:  
+The dataset used in this project is from the [SMS Spam Collection Dataset on Kaggle](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset) and is provided for research purposes by its original authors.
