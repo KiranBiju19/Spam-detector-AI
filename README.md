@@ -42,6 +42,7 @@ Then open your browser at [http://127.0.0.1:5000](http://127.0.0.1:5000)
 - Suspicious messages are logged in `suspicious_log.txt`.
 
 ## Accuray and output
+```
 Accuracy: 0.9614349775784753
               precision    recall  f1-score   support
 
@@ -54,7 +55,7 @@ weighted avg       0.96      0.96      0.96      1115
 
 Model saved to spam_classifier.joblib
 Vectorizer saved to vectorizer.joblib
-
+```
 ## License
 This project is licensed under the MIT License.
 
