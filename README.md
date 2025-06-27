@@ -41,6 +41,20 @@ Then open your browser at [http://127.0.0.1:5000](http://127.0.0.1:5000)
 - To use a transformer model (DistilBERT), uncomment the relevant lines in `requirements.txt` and update the code in `model_trainer.py` and `predictor.py`.
 - Suspicious messages are logged in `suspicious_log.txt`.
 
+## Accuray and output
+Accuracy: 0.9614349775784753
+              precision    recall  f1-score   support
+
+           0       0.96      1.00      0.98       965
+           1       0.98      0.73      0.84       150
+
+    accuracy                           0.96      1115
+   macro avg       0.97      0.86      0.91      1115
+weighted avg       0.96      0.96      0.96      1115
+
+Model saved to spam_classifier.joblib
+Vectorizer saved to vectorizer.joblib
+
 ## License
 This project is licensed under the MIT License.
 
